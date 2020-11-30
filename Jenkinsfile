@@ -13,13 +13,13 @@ pipeline {
    }
     stage('test'){
       steps {
-       echo "teststep"
-       sh 'mven test'
+       echo "test step"
+       sh 'mvn test'
      }
    }
     stage('deploy'){
       steps {
-       echo "deploystep"
+       echo "deploy step"
        sleep 10
      }
    }
