@@ -5,7 +5,7 @@ pipeline {
   }
   environment {
      registry = "atabonglefac/devops_pipeline"
-     registryCredential = 'DockerIdT'
+     registryCredential = '	DockerID'
   }
   stages {
     stage('Build'){
