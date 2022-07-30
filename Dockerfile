@@ -3,5 +3,5 @@ From tomcat:8-jre8
 
 # Maintainer 
 MAINTAINER "kserge2001@yahoo.fr" 
-COPY ./webapp.war /opt/apache-tomcat-8.5.81/webapps
+COPY ./webapp/target/webapp.war /usr/local/tomcat/webapps
 
