@@ -1,8 +1,8 @@
 <h1> Hello, Welcome to Simple DevOps Project Ade!!   </h1>
-<h2> this is really awesome when i am getting everything right </h2>
-<h2> Glad to see you here as well </h2>
-<h1> Good job Ade on showing us the light</h1>
-<h1> i can't wait for  to start making big $$$$$$ men !!!</h1>  
+<h2> this is really awesome when i am getting absolutely everything right </h2>
+<h2> Glad to see you here as well for real</h2>
+<h1> Good job Ade on showing us the light of God</h1>
+<h1> i can't wait for  to start making big $$$$$$ amen !!!</h1>  
 <h1> it is really fun when you can understand what you are doing</h1>  
 <h1> docker is pretty simple guys...cant just keep calm till i make that 8 figure income .....stay laser focus guys ...</h1>  
 <h1>this is another new page for testing</h1>
